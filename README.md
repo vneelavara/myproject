@@ -2,3 +2,4 @@
 My project
 My edits...
 My new local edits
+Build trigger
